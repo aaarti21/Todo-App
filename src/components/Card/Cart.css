@@ -1,0 +1,53 @@
+.shopping-cart{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 200px;
+    justify-content: space-between;
+    margin: 12px;
+    background-color: #FFF2AA;
+    margin: 20px 0px 50px 50px ;
+    border-radius: 8px;
+    padding: 25px;
+    height: 200px;
+    width: 290px
+}
+.cart-text{
+    align-items: center;
+    align-self: flex-end;
+    display: flex;
+    gap: 10px;
+}
+.icon-check{
+    font-size: 30px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: gold;
+    cursor: pointer;
+    padding: 8px 8px 7px 10px;
+}
+.note-iocn{
+    font-size: 30px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #6495ED;
+    cursor: pointer;
+    padding: 8px 8px 7px 10px;
+}
+.delete-icon{
+    font-size: 30px;
+    border-radius: 8px;
+    background-color: #F3345B;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 8px 7px 10px;
+}
+.right-arrow{
+    font-size: 30px;
+    border-radius: 8px;
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 8px 7px 10px;
+}

@@ -1,0 +1,49 @@
+.main-container{
+    margin: auto;
+    width: 1300px;
+}
+.card-dark{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #272727;
+    color: #fff;
+    padding: 15px 16px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin: 15px;
+}
+.card-white{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    color: black;
+    padding: 15px 16px;
+    border-radius: 8px;
+    font-size: 20px;
+    margin: 15px;
+}
+.pending{
+    font-size: 20px;
+    padding: 8px;
+    color: white;
+    background-color: #DC143C;
+    border-radius: 10px;
+    border: none;
+   
+}
+.completed{
+    font-size: 20px;
+    padding: 8px;
+    color: white;
+    background-color: #FFD700;
+    border-radius: 10px;
+    border: none;
+   
+}
+
+
+.title-white-mode{
+    color: black;
+}

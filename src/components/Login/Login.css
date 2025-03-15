@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+    text-decoration: none;
+}
+
+.main-bg{
+    background-color: #393939;
+}
+.root{
+    padding: 50px;
+}
+.login-dark{
+    background-color:#272727;
+    color: white;
+    max-width: 600px;
+    border-radius: 10px;
+    padding: 70px;
+    margin: auto;
+   
+}
+.login-dark h1{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+.para{
+    text-align: center;
+    font-size: 20px;
+    margin: 10px 0px 30px 0px;
+}
+.login-email-input{
+    margin: 10px 0px 20px 0px;
+    background-color: #ebf7ff;
+    border: 2px solid #ebf7ff;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 20px;
+    width: 95%  
+}
+.font{
+    
+    font-size: 20px;
+}
+.login-pwd-input{
+    margin: 10px 0px 40px 0px;
+    background-color: #ebf7ff;
+    border: 2px solid #ebf7ff;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 20px;
+    width: 95% 
+}
+.text-center{
+    text-align: center;
+}
+.login-btn{
+    border: 2px solid #dc143c;
+    background-color: #dc143c;
+    color: white;
+    width: 8vw;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 15px;
+}
+.login-btn:hover{
+    background-color: #272727;
+    color: #dc143c;
+}

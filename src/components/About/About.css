@@ -1,0 +1,30 @@
+.content{
+    margin: auto;
+    width: 1300px;
+}
+.desc{
+    color: white;
+    font-size: 30px;
+    margin: 20px 0px;
+    text-align: justify;
+}
+.desc-white-mode{
+    color: black;
+    font-size: 30px;
+    margin: 20px 0px;
+    text-align: justify;
+}
+.red-text{
+    color: #DC143C;
+}
+.title h4{
+    margin: 50px 0px 40px 0px;
+}
+.title-white-mode{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 50px 0px 40px 0px;
+}
+

@@ -1,0 +1,67 @@
+.navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-color: #272727;
+  color: white;
+  padding: 12px 36px;
+  cursor: pointer;
+}
+.navbar-black{
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffff;
+  padding: 12px 36px;
+}
+/* .active{
+  color: gold;
+  /* text-decoration: underline gold; */
+ */
+
+.logo{
+    align-items: center;
+}
+.logo a {
+  color: white;
+  text-decoration: none;
+  font-size: 35px;
+}
+.list-container ul {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    font-size: x-large;
+   
+}
+.list-container li{
+  list-style-type: none;
+  color: white;
+}
+.active li{
+  color: gold;
+  text-decoration: 3px underline gold;
+}
+.checkicon {
+  color: gold;
+  font-size: xx-large;
+}
+.light-dark-modeicon {
+  font-size: xx-large;
+}
+.logout-btn button {
+  background-color: #dc143c;
+  color: white;
+  border: 2px solid #dc143c;
+  border-radius: 8px;
+  padding: 15px;
+  font-size: 20px;
+  
+  
+}
+.btn-container{
+ align-items: center;
+ display: flex;
+ gap: 30px;
+}
